@@ -1,5 +1,5 @@
 version: "3.8"
-name: 'bookstore-springboot-microservices'
+name: 'bookstore-springboot-microservicesx'
 services:
   catalog-service:
     image: akshelke21/bookstore-catalog-service
